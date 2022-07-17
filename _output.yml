@@ -5,7 +5,6 @@ bookdown::gitbook:
       before: |
         <li><a href="./">Cartegraph Tutorials</a></li>
       after: |
-        <li><a href="https://github.com/rstudio/bookdown" target="blank">Published with bookdown</a></li>
     edit: https://github.com/DatJot/Cartegraph-Tutorials/edit/main/%s
     download: ["pdf", "epub"]
 bookdown::pdf_book:
